@@ -1,7 +1,8 @@
 name: packgae_cook
-description: "A new Flutter package project."
+description: "UI flutter with juncook Dev."
 version: 0.0.1
-homepage:
+repository: https://github.com/MrTuyennn/packgae_cook.git
+homepage: https://github.com/MrTuyennn/packgae_cook.git
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
